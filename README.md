@@ -72,15 +72,19 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tools & Environment
 
-<div align="center">
-
-![Reuben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReuKitaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=a1a1aa&icon_color=818cf8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReuKitaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee&text_color=a1a1aa)
-
-</div>
+| Category | Tools |
+|---|---|
+| **Editor** | IntelliJ IDEA, VS Code |
+| **Version Control** | Git, GitHub, GitLab |
+| **Containerization** | Docker, Kubernetes |
+| **Cloud** | Google Cloud Platform |
+| **IaC** | Terraform |
+| **CI/CD** | GitLab CI, GitHub Actions |
+| **Monitoring** | Grafana, SIEM tools |
+| **API Testing** | Postman, REST clients |
+| **Databases** | DBeaver, Oracle SQL Developer |
 
 ---
 
