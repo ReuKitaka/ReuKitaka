@@ -99,6 +99,13 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 
 ---
 
+## 📊 Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 💡 Engineering Philosophy
 
 > *"I optimize for the engineer who comes after me — leaving code, architecture, and documentation better than I found it."*
