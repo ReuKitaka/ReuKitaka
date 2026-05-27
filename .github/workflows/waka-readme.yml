@@ -24,5 +24,6 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          IGNORED_EDITORS: "Claude Code"
 
           
