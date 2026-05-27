@@ -123,20 +123,20 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-🌆 Daytime                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌃 Evening                23 commits          ███████████████░░░░░░░░░░   58.97 % 
-🌙 Night                  7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌆 Daytime                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌃 Evening                24 commits          ███████████████░░░░░░░░░░   60.00 % 
+🌙 Night                  7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Tuesday                  15 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
-Wednesday                10 commits          ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Tuesday                  15 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
+Wednesday                11 commits          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -152,10 +152,6 @@ JavaScript               5 hrs 1 min         ███████░░░░�
 SQL                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-IntelliJ IDEA            11 hrs 18 mins      █████████████████░░░░░░░░   67.42 % 
-Claude Code              5 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
 
 🐱‍💻 Projects: 
 xe                       11 hrs 43 mins      █████████████████░░░░░░░░   69.98 % 
@@ -184,7 +180,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ReuKitaka/ReuKitaka/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 17:25:34 UTC
+ Last Updated on 27/05/2026 17:29:39 UTC
 <!--END_SECTION:waka-->
 
 ---
