@@ -102,6 +102,87 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 ## 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.27%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 49.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 25 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+🌆 Daytime                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+🌃 Evening                22 commits          ██████████████░░░░░░░░░░░   57.89 % 
+🌙 Night                  7 commits           █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Tuesday                  15 commits          ██████████░░░░░░░░░░░░░░░   39.47 % 
+Wednesday                9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+Java                     9 hrs 39 mins       ██████████████░░░░░░░░░░░   57.57 % 
+JavaScript               5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+SQL                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+IntelliJ IDEA            11 hrs 18 mins      █████████████████░░░░░░░░   67.42 % 
+Claude Code              5 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
+
+🐱‍💻 Projects: 
+xe                       11 hrs 43 mins      █████████████████░░░░░░░░   69.98 % 
+extjs                    5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+reporting-service        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+hazina                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+notificationsservice     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Mac                      13 hrs 47 mins      █████████████████████░░░░   82.29 % 
+Linux                    2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     5 repos             ██████████████████░░░░░░░   71.43 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ReuKitaka/ReuKitaka/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/05/2026 16:19:13 UTC
 <!--END_SECTION:waka-->
 
 ---
