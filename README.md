@@ -102,17 +102,17 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 ## 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-676%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.27%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.53%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 49.2 kB Used in GitHub's Storage 
+> 📦 49.4 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2026
+> 🏆 31 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,20 +123,20 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌃 Evening                24 commits          ███████████████░░░░░░░░░░   60.00 % 
-🌙 Night                  7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+🌆 Daytime                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌃 Evening                28 commits          ████████████████░░░░░░░░░   63.64 % 
+🌙 Night                  7 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  15 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-Wednesday                11 commits          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Monday                   6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  15 commits          █████████░░░░░░░░░░░░░░░░   34.09 % 
+Wednesday                15 commits          █████████░░░░░░░░░░░░░░░░   34.09 % 
+Thursday                 3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -180,7 +180,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ReuKitaka/ReuKitaka/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 17:29:39 UTC
+ Last Updated on 28/05/2026 01:00:07 UTC
 <!--END_SECTION:waka-->
 
 ---
