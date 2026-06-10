@@ -102,7 +102,7 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 ## 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
 
@@ -147,18 +147,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Java                     8 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.46 % 
-SQL                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-JavaScript               3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Java                     9 hrs 3 mins        █████████████░░░░░░░░░░░░   53.49 % 
+SQL                      4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+JavaScript               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🐱‍💻 Projects: 
-xe                       14 hrs 6 mins       ████████████████████░░░░░   79.30 % 
-extjs                    3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+xe                       13 hrs 54 mins      █████████████████████░░░░   82.10 % 
+extjs                    3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+reporting-service        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    17 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -176,7 +177,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ReuKitaka/ReuKitaka/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 01:04:20 UTC
+ Last Updated on 10/06/2026 01:10:23 UTC
 <!--END_SECTION:waka-->
 
 ---
