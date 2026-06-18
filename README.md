@@ -102,9 +102,9 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 ## 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-737%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -147,20 +147,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Java                     7 hrs 49 mins       ██████████████░░░░░░░░░░░   55.85 % 
-SQL                      2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-JavaScript               2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Java                     11 hrs              ████████████████░░░░░░░░░   62.38 % 
+SQL                      3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript               2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🐱‍💻 Projects: 
-xe                       11 hrs 14 mins      ████████████████████░░░░░   80.16 % 
-extjs                    2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-reporting-service        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-rkitaka                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+xe                       15 hrs 1 min        █████████████████████░░░░   85.12 % 
+extjs                    2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+reporting-service        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    14 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    17 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -178,7 +177,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ReuKitaka/ReuKitaka/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 01:14:56 UTC
+ Last Updated on 18/06/2026 01:13:39 UTC
 <!--END_SECTION:waka-->
 
 ---
