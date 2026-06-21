@@ -147,19 +147,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Java                     12 hrs 23 mins      ████████████████░░░░░░░░░   65.15 % 
-SQL                      3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-JavaScript               2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Java                     12 hrs 1 min        ████████████████░░░░░░░░░   63.67 % 
+SQL                      3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+JavaScript               2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-xe                       16 hrs 6 mins       █████████████████████░░░░   84.65 % 
-extjs                    2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-reporting-service        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+xe                       15 hrs 58 mins      █████████████████████░░░░   84.56 % 
+extjs                    2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 
 💻 Operating System: 
-Linux                    19 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    18 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -177,7 +176,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ReuKitaka/ReuKitaka/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 01:08:24 UTC
+ Last Updated on 21/06/2026 01:17:09 UTC
 <!--END_SECTION:waka-->
 
 ---
