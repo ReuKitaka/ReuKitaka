@@ -102,7 +102,7 @@ I'm a Senior Software Engineer with **7+ years** of experience designing, modern
 ## 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -147,19 +147,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Java                     13 hrs 8 mins       ████████████████░░░░░░░░░   63.62 % 
-JavaScript               5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-SQL                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Java                     13 hrs 28 mins      ████████████████░░░░░░░░░   64.43 % 
+JavaScript               5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+SQL                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-xe                       15 hrs 36 mins      ███████████████████░░░░░░   75.57 % 
-extjs                    5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+xe                       15 hrs 48 mins      ███████████████████░░░░░░   75.62 % 
+extjs                    5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
 reporting-service        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    20 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -177,7 +177,7 @@ HTML                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ReuKitaka/ReuKitaka/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 01:06:00 UTC
+ Last Updated on 26/06/2026 01:08:45 UTC
 <!--END_SECTION:waka-->
 
 ---
